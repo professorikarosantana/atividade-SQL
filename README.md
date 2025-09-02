@@ -1,2 +1,2 @@
 # atividade-SQL
-ESTE REPOSITÓRIO É UTILIZADO PARA SALVAR AS ATIVIDADES FEITAS NO CURSO DE MySQL.
+"Este repositório foi criado para armazenar e organizar as atividades desenvolvidas durante o curso de MySQL."
